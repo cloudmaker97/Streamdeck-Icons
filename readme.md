@@ -1,9 +1,8 @@
 # Elgato Streamdeck (Icon-Pack)
 
-## Notices
+## General
 1. To edit this icons you need a software called "Affinity Photo" (wich has a free 30-day trial)
 2. Feel free to edit; contribute and share this in any way
-3. Have a great day
 
 ## Credits
 Icons from this sources are used (but modified)
